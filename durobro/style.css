@@ -1,0 +1,33 @@
+body.body_color{
+background-color: lightgoldenrodyellow;
+font-family: Arial, sans-serif;
+text-align: center;
+}
+div.header {
+background-color: lightsalmon;
+font-size: 24px;
+font-weight: bold;
+color: white;
+padding: 20px;
+}
+div.menu {
+padding: 10px;
+border: 2px dashed red;
+display: inline-block;
+}
+div.menu{
+color: black;
+background-color: lightgoldenrodyellow;
+border-radius: 5px;
+}
+div.content {
+margin: 20px auto;
+width: 60%;
+border: 3px dotted red;
+background-color: lightsalmon;
+text-align: left;
+}
+div.map {
+text-align: left;
+margin-top: 20px;
+}
